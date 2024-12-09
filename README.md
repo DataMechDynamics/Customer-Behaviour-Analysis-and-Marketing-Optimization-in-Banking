@@ -22,6 +22,7 @@ Financial Data: Account balance and loan information.
 Moro, S., Cortez, P., & Rita, P. (2014).
 
 Methods
+
 Supervised Learning
 Algorithms: Logistic Regression, Random Forest, etc.
 Metrics: Accuracy, Confusion Matrix, ROC Curves.
@@ -30,5 +31,6 @@ Clustering Techniques: K-Means, DBSCAN, Hierarchical Clustering.
 Evaluation: Silhouette Score, Dendrogram Analysis.
 
 Key Insights
+
 The analysis integrates predictive modeling with clustering insights for customer segmentation.
 Provides actionable recommendations for marketing optimization and customer relationship management.
